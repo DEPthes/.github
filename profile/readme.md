@@ -1,7 +1,7 @@
 ![depth_github_banner](https://github.com/DEPthes/.github/assets/92661884/e14619ab-8c82-4432-936a-d827eea1f2ae)
 
 
-<div align=center> 
+<div align=left> 
     <a href="http://depth-mju.co.kr/">
         <img src="https://img.shields.io/badge/-DEPth_Site-000000?style=bold">
     </a>  
